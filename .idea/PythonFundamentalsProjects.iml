@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (Myfirstpythonproject)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="my_exam" />
+    <orderEntry type="module" module-name="PythonBasicsProjects" />
+    <orderEntry type="module" module-name="Projects" />
+    <orderEntry type="module" module-name="PythonAdvanedProjects" />
+  </component>
+</module>
